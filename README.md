@@ -10,3 +10,4 @@
 - 😄 Pronouns: He/Him
 - #️⃣ Hashtags: Computer Science, C#, .Net, Cloud, AWS, Azure
 
+[![Linkedin: Gustavo Almeida](https://img.shields.io/badge/-ghalmeida18-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghalmeida18)](https://www.linkedin.com/in/ghalmeida18/)
