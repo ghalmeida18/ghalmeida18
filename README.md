@@ -14,7 +14,10 @@
 [![Linkedin: Gustavo Almeida](https://img.shields.io/badge/-ghalmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghalmeida)](https://www.linkedin.com/in/ghalmeida/)
 
 **Languages and Tools:**  
+<code><img height="20" src="csharp.png"></code>
 <code><img height="20" src="mssql.png"></code>
+<code><img height="20" src="aws.png"></code>
+<code><img height="20" src="Azure.png"></code>
 
  
 
