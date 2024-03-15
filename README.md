@@ -20,7 +20,7 @@
 <code><img height="20" src="Azure.png"></code>
 
 <div align="center">
-  <a href="https://github.com/danielfernandesp">
+  <a href="https://github.com/ghalmeida18">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ghalmeida18&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghalmeida18&layout=compact&langs_count=7&theme=radical"/>
 </div>
